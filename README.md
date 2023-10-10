@@ -1,9 +1,9 @@
 # NLP_Codes
 # NLP Applications and More
 
-# Developer: Eaby Kollonoor Babu
-# Last Updated: 2023-10-10
-# Contact:eaby.asha@gmail.com
+### Developer: Eaby Kollonoor Babu
+### Last Updated: 2023-10-10
+### Contact:eaby.asha@gmail.com
 
 Welcome to the NLP Applications and More project! This repository contains a collection of Natural Language Processing (NLP) applications, text analysis tools, and machine learning models for various NLP tasks. We utilize the latest machine learning models and techniques to provide state-of-the-art solutions.
 
