@@ -1,6 +1,10 @@
 # NLP_Codes
 # NLP Applications and More
 
+# Developer: Eaby Kollonoor Babu
+# Last Updated: 2023-10-10
+# Contact:eaby.asha@gmail.com
+
 Welcome to the NLP Applications and More project! This repository contains a collection of Natural Language Processing (NLP) applications, text analysis tools, and machine learning models for various NLP tasks. We utilize the latest machine learning models and techniques to provide state-of-the-art solutions.
 
 ## Table of Contents
@@ -52,23 +56,24 @@ Our Twitter Monitoring tool allows you to monitor Twitter streams for specific k
 
 ### Speech Recognition and Synthesis
 
-The Speech Recognition and Synthesis program leverages state-of-the-art speech recognition models to convert spoken language into text. It can also synthesize human-like speech from text input.
+The Speech Recognition and Synthesis program leverages google translate API to convert spoken language into text. It can also synthesize human-like speech from text input.
 
 ### Machine Translation
 
-Our Machine Translation Application uses neural machine translation models to translate text between multiple languages. It supports a wide range of languages and ensures accurate and fluent translations.
+Our Machine Translation Application uses Google translate API to translate text between multiple languages. It supports a wide range of languages and ensures accurate and fluent translations.
 
 ## Usage
 
-For detailed usage instructions and code examples for each application, please refer to the respective README files and documentation provided within each application's directory.
+For detailed usage instructions and code examples for each application, please refer to the respective code files and documentation provided within each file.
 
 ## Latest ML Models
 
 We stay up-to-date with the latest advancements in machine learning and NLP. Our applications are built using the most recent and efficient machine learning models, ensuring top-notch performance.
 
-## Contributing
+# Feedback
 
-We welcome contributions from the community to enhance and expand our collection of NLP applications and tools. If you'd like to contribute, please check our [contribution guidelines](CONTRIBUTING.md) for more information.
+For questions or feedback, feel free to email me at eaby.asha@gmail.com
+
 
 ## License
 
