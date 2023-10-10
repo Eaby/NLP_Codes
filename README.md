@@ -21,7 +21,7 @@ Welcome to the NLP Applications and More project! This repository contains a col
   - [Machine Translation](#machine-translation)
 - [Usage](#usage)
 - [Latest ML Models](#latest-ml-models)
-- [Contributing](#contributing)
+- [Feedback](#Feedback)
 - [License](#license)
 
 ## Overview
@@ -70,7 +70,7 @@ For detailed usage instructions and code examples for each application, please r
 
 We stay up-to-date with the latest advancements in machine learning and NLP. Our applications are built using the most recent and efficient machine learning models, ensuring top-notch performance.
 
-# Feedback
+## Feedback
 
 For questions or feedback, feel free to email me at eaby.asha@gmail.com
 
